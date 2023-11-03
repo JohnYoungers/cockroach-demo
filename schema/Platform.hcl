@@ -1,0 +1,3 @@
+schema "Platform" {
+  comment = ""
+}
